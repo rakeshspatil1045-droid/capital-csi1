@@ -1,0 +1,14 @@
+<<<<<<< HEAD
+class c() #dev2
+{
+  public static void main(){ #dev2
+=======
+class c() #dev1
+{
+  public static void main(){ #dev1
+>>>>>>> 637c784f856964269bce9cc27272378972eb878a
+ {
+ s.o.p("hi"); #dev1
+ }
+ } dev2
+  
