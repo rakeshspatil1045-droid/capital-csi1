@@ -1,8 +1,8 @@
+<<<<<<< HEAD
 class c() #dev2
 {
   public static void main(){ #dev2
+{
  {
- s.o.p("hi");
- }
- } dev2
+  } dev2
   
