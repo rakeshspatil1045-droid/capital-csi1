@@ -1,8 +1,8 @@
-class c()
+class c() #dev1
 {
-  public static void main(){
+  public static void main(){ #dev1
  {
- s.o.p("hi");
+ s.o.p("hi"); #dev1
  }
  }
   
